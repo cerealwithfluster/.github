@@ -9,5 +9,6 @@ why "cerealwithfluster"? because [fluster](https://pixel.devpage.me) (btw if u v
 ## Stats:
 ## Sodapoppatchie (patch):
 ![soda's GitHub stats](https://stats-fork.vercel.app/api?username=sodapoppatchie&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://stats-fork.vercel.app/api/top-langs/?username=sodapoppatchie&layout=compact)
 ## Lunarblue (lunar)
 ![lunar's GitHub stats](https://stats-fork.vercel.app/api?username=lunarblue&show_icons=true&theme=tokyonight)
